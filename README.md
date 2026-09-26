@@ -62,7 +62,6 @@ Turning ideas into working software
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/bassam-elsayed-8227482b5/)
 * 🌐 [Portfolio](https://bassam-portfolio2.vercel.app/)
-* 💻 [GitHub](https://github.com/Bassam-Elsaied)
 
 ---
 
